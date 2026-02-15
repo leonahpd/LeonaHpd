@@ -9,5 +9,5 @@ A passionate DevOps and Cloud enthusiast, constantly exploring the latest techno
 - 💬 Ask me about DevOps best practices, Terraform, Kubernetes, cloud automation, and troubleshooting production issues.
 - 📫 How to reach me: leonahpd@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m a passionate dancer 💃 and love checking off items from my bucket list while exploring new technologies!
+- ⚡  I’m a passionate dancer 💃 and love checking off items from my bucket list while exploring new technologies!
 
