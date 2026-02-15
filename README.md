@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 I’m Leona Raj, a passionate DevOps and Cloud enthusiast, constantly exploring the latest technologies to automate, optimize, and build reliable systems. I thrive on solving complex infrastructure challenges and believe that learning never stops — if something sticks in my mind, I won’t rest until I understand it fully. I enjoy sharing my learnings with others and staying curious about what’s new in the tech world.
